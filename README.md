@@ -1,2 +1,2 @@
-# iphone-calculator
-A basic iphone calculator using html css js
+# iPhone-calculator
+An iPhone calculator which performs basic calculations using HTML CSS & JS
